@@ -1,0 +1,45 @@
+.about-section {
+    width: 75%;
+    margin: auto;
+    padding-top: 100px;
+    padding-bottom: 25px;
+}
+
+.about-section h1 {
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+.about-section p {
+    margin-bottom: 2px;
+}
+
+.what-is {
+    margin: auto;
+    margin-bottom: 60px;
+}
+
+#ceo {
+    width: 30%;
+    float: left;
+    padding-right: 30px;
+    padding-bottom: 19px;
+    border-radius: 5px;
+}
+
+.ig-kris img {
+    width: 17px;
+    height: 17px;
+}
+
+.ig-kris a {
+    color: white;
+    cursor: pointer;
+}
+
+.ig-kris {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding-top: 35px;
+}

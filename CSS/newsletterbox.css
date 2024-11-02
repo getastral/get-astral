@@ -1,0 +1,11 @@
+#newsletter {
+    background-image: linear-gradient(
+      rgba(255, 255, 255, 0.03), rgba(255, 255, 255, 0.03)), url("/images/newsletter_bground.png");
+      background-size: cover;
+      border-top: 2px solid white;
+      border-bottom: 2px solid white;
+}
+
+.form-group {
+    display: block;
+}
